@@ -1,0 +1,10 @@
+/* 
+  i18n.strings
+  EcoLanguage
+
+  Created by Alexis Suard on 31/03/2017.
+  Copyright © 2017 CocoaPods. All rights reserved.
+*/
+"LABEL" = "مرحبا";
+"TEXTFIELD" = "من أنت ؟";
+"BUTTON" = "غير اللغة";

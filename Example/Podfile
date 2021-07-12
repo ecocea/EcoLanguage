@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EcoLanguage_Example' do
+  pod 'EcoLanguage', :path => '../'
+
+  target 'EcoLanguage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
